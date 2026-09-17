@@ -1,5 +1,4 @@
-# mi
-dg
+
 🌍 GeoVision AI
 
 AI-Powered Satellite Image Analysis & Question Answering
